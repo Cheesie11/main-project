@@ -1,0 +1,3 @@
+[submodule "libs/greetings"]
+	path = libs/greetings
+	url = https://github.com/Cheesie11/greetings-module.git
